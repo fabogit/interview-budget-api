@@ -1,5 +1,5 @@
 {
-  "name": "balance-backend",
+  "name": "interview-budget-api",
   "version": "1.0.0",
   "description": "budget app backend",
   "main": "server.js",
